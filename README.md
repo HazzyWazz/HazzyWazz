@@ -1,6 +1,6 @@
 # Please do not the cat
-🐱‍👤 FPS Gamer
-[will fill later]
+- 🐱‍👤 FPS Gamer
+- [will fill later]
 <!--
 **HazzyWazz/HazzyWazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
